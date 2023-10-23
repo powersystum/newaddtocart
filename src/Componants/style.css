@@ -1,0 +1,19 @@
+
+.hr{
+    border-bottom: 1px solid rgb(236, 226, 226);
+}
+
+.button{
+    font-size: 30px;
+}
+.trash:hover{
+    color: red;
+}
+.box{
+    border: 0px 1px 10px 2px solid black;
+    width: 600px;
+    height: 200px;
+}
+.disc{
+    flex-wrap: wrap;
+}
