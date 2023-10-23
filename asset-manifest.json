@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newaddtocart/static/css/main.0b87569d.css",
+    "main.js": "/newaddtocart/static/js/main.e401298d.js",
+    "static/js/787.d3befce1.chunk.js": "/newaddtocart/static/js/787.d3befce1.chunk.js",
+    "index.html": "/newaddtocart/index.html",
+    "main.0b87569d.css.map": "/newaddtocart/static/css/main.0b87569d.css.map",
+    "main.e401298d.js.map": "/newaddtocart/static/js/main.e401298d.js.map",
+    "787.d3befce1.chunk.js.map": "/newaddtocart/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b87569d.css",
+    "static/js/main.e401298d.js"
+  ]
+}
